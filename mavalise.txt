@@ -5,3 +5,4 @@ chapeau
 crème solaire
 lunette
 chaise
+stylo
